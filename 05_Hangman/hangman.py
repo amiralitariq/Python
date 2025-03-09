@@ -1,6 +1,6 @@
 import random
 import string
-from words import words  # Ensure this file exists and contains a list of words
+from words import words  
 
 def get_valid_word(words):
     word = random.choice(words)
