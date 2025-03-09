@@ -1,0 +1,1 @@
+A Mad Lib is a word game where players fill in blanks in a pre-written story with random words {such as nouns, verbs, and adjectives} without knowing the full context. Once all the blanks are filled, the completed story is read aloud, often resulting in humorous and nonsensical outcomes.
